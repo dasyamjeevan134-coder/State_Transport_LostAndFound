@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.transport.lostfound.controller.FoundItemControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.094 s -- in com.transport.lostfound.controller.FoundItemControllerIntegrationTest

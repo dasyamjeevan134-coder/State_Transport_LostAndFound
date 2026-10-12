@@ -1,0 +1,10 @@
+com\transport\lostfound\controller\UserControllerIntegrationTest.class
+com\transport\lostfound\service\AuthServiceTest.class
+com\transport\lostfound\controller\LostItemControllerIntegrationTest.class
+com\transport\lostfound\service\LostItemServiceTest.class
+com\transport\lostfound\service\ReturnRecordServiceTest.class
+com\transport\lostfound\controller\ClaimAndReturnWorkflowIntegrationTest.class
+com\transport\lostfound\service\ClaimServiceTest.class
+com\transport\lostfound\controller\FileUploadControllerIntegrationTest.class
+com\transport\lostfound\controller\FoundItemControllerIntegrationTest.class
+com\transport\lostfound\controller\AuthControllerIntegrationTest.class
